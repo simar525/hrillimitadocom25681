@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://appv2.aanyahr.com/$1"
+ }
+  ]
+}
